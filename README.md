@@ -1,2 +1,2 @@
 # Mexican-salamanders
-Shapefiles of mexican salamanders distributions
+TIFF files of salamanders' distributions of Mexico
